@@ -1,0 +1,12 @@
+{
+  "name": "bk only fun idea",
+  "description": "try put bet on this bk page",
+  "version": "1.5",
+  "manifest_version": 3,
+  "icons": {},
+  "action": {
+    "default_popup":"popup.html"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "background":{}
+}
