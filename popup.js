@@ -70,7 +70,7 @@ function execScript2(tab) {
             }
         )
     } catch (error) {
-        error
+        console.log(error);
     }
 }
 
@@ -236,7 +236,7 @@ const start = async () => {
                     }
 
                         ,
-                        1900
+                        6900
                     )
                         ;
                 } catch (error) {
